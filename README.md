@@ -36,11 +36,12 @@ Steps included in this project:
     Choosing right model
     Hurray you just completed the task !
     
-![image](https://github.com/Hariharan161297/Wine_quality/assets/146412784/c52f4242-f941-43bb-b18d-dedb22acaf52)
- 
+
 
 
 
 # conclusion
 
 I have developed a machine learning-based web application that wine researchers and wine growers can use to predict wine quality based on the important available chemical compounds in their wines
+
+![image](https://github.com/Hariharan161297/Wine_quality/assets/146412784/c52f4242-f941-43bb-b18d-dedb22acaf52)
